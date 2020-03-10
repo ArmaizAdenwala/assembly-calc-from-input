@@ -3,3 +3,9 @@
 Project that was created as I was learning assembly.
 
 calc.asm manipulates the data that is provided to it through input and outputs it.
+
+## Author
+
+Armaiz Adenwala
+
+[Software Engineer Portfolio](https://armaizadenwala.com/)
